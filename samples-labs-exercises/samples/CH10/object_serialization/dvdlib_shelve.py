@@ -24,9 +24,8 @@ class DvdDao:
 
     def all(self):
         with shelve.open(self.dbname) as shelve_db:
-            shelve_db = shelve.open(self.dbname)
-            return (shelve_db[title]
-                        for title in sorted(shelve_db, key = str.lower))
+            return [shelve_db[title]
+                        for title in sorted(shelve_db, key = str.lower)]
 
     def load(self, title):
         with shelve.open(self.dbname) as shelve_db:
