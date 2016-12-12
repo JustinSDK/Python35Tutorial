@@ -29,6 +29,10 @@
 
    ![P6-11](images/6_11_typo_1.JPG)
 
+## P6-14
+
+   ![P6-14](images/6_14_typo_1.JPG)
+
 ## P6-18
 
    ![P6-18](images/6_18_typo_1.JPG)
