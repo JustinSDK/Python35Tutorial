@@ -8,7 +8,7 @@ class Logger:
         return clz.__loggers[name]
 
     def __init__(self, name):
-        if name not in vars(self):
+        if 'name' not in vars(self):
             self.name = name
 
     def log(self, message):

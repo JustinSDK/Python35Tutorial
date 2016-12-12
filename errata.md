@@ -21,6 +21,18 @@
 
    ![P5-23](images/5_23_typo_1.JPG)
 
+## P5-33
+
+   ![P5-33](images/5_33_typo_1.JPG)
+
+## P6-11
+
+   ![P6-11](images/6_11_typo_1.JPG)
+
+## P6-18
+
+   ![P6-18](images/6_18_typo_1.JPG)
+
 ## P7-10
 
    ![P7-10](images/7_10_typo_1.JPG)
