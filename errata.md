@@ -41,6 +41,10 @@
 
    ![P7-10](images/7_10_typo_1.JPG)
 
+# 第 8 章
+    
+   `newlines` 參數一律更正為 `newline` 參數
+
 ## P10-6
 
    ![P10-6](images/10_6_typo_1.JPG)
