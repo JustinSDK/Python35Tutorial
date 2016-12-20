@@ -45,6 +45,10 @@
     
    `newlines` 參數一律更正為 `newline` 參數
 
+## P9-2
+
+   ![P9-2](images/9_2_typo_1.JPG)
+
 ## P10-6
 
    ![P10-6](images/10_6_typo_1.JPG)
