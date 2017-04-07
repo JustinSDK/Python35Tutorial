@@ -6,9 +6,9 @@ def sele_sort(number):
         if right == len(number):
             return left
         elif number[right] < number[left]:
-            return min(right, right + 1)
+            return min_index(right, right + 1)
         else:
-            return min(left, right + 1)
+            return min_index(left, right + 1)
 
     for i in range(len(number)):
         selected = min_index(i, i + 1)
