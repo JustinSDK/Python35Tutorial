@@ -5,6 +5,10 @@
 
    ![P3-6](images/3_6_typo_1.JPG)
 
+## P3-12
+
+   ![P3-12](images/3_12_typo_1.JPG)
+
 ## P3-31
 
    ![P3-31](images/3_31_typo_1.JPG)
