@@ -1,6 +1,10 @@
 《Python 3.5 技術手冊》堪誤
 
 
+## P3-6
+
+   ![P3-6](images/3_6_typo_1.JPG)
+
 ## P3-31
 
    ![P3-31](images/3_31_typo_1.JPG)
