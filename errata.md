@@ -9,9 +9,21 @@
 
    ![P3-12](images/3_12_typo_1.JPG)
 
+## P3-30
+
+   ![P3-30](images/3_30_typo_1.JPG)
+
+## P3-30
+
+   ![P3-30](images/3_30_typo_2.JPG)
+
 ## P3-31
 
    ![P3-31](images/3_31_typo_1.JPG)
+
+## P3-38
+
+   ![P3-38](images/3_38_typo_1.JPG)
 
 ## P4-15
 
